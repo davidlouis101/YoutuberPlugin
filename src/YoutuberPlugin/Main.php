@@ -4,7 +4,7 @@ namespace Crow\Youtuber;
 
 use pocketmine\plugin\pluginBase;
 use pocketmine\command\Command;
-use pocketmine\command\commandsender
+use pocketmine\command\commandsender;
 
 class Main extends PluginBase {}
 
