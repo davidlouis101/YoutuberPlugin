@@ -1,0 +1,10 @@
+name: YoutuberPlugin
+main: YoutuberPlugin\Main
+api: 3.11.1
+version: 1.0.0
+author: Crow
+commands:
+DC:
+description: "§2Unser DC Server"
+usage: "/DC"
+permission: DC.cmd
