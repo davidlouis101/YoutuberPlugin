@@ -17,7 +17,7 @@ public function onCommand (CommandSender $sender,Command $commanf, string $label
 
 $sender->sendMassage("§4Unser Discord Server --> §2https://discord.gg/rrf3gqh");
 $sender->sendMassage("§1Nicht Vergessen §2YT : Crow Balde");
-$sender->sendMassage("VON CROW BALDE")
+$sender->sendMassage("VON CROW BALDE");
     Return true;
      }
     }
