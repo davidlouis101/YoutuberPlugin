@@ -1,6 +1,6 @@
 <?php
 
-namespace Youtuber;
+namespace Crow\Youtuber;
 
 use pocketmine\plugin\pluginBase;
 use pocketmine\command\Command;
