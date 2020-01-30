@@ -8,3 +8,7 @@ DC:
 description: "§2Unser DC Server"
 usage: "/DC"
 permission: DC.cmd
+
+permission:
+DC.cmd:
+default: default
