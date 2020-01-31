@@ -1,7 +1,7 @@
 name: YoutuberPlugin
 main: YoutuberPlugin\Main
-api: 3.11.1
-version: 1.0.0
+api: 3.11.3
+version: 0.0.1
 author: Crow
 commands:
 DC:
