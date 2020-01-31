@@ -9,7 +9,7 @@ use pocketmine\command\CommandSender;
 class Main extends PluginBase {
 
     public function onEnable(){
-        $this->getLogger->info("DC An");
+        $this->getLogger()->info("DC An");
     }
     
     public function onCommand (CommandSender $sender, Command $command, string $label, array $args) :bool {
