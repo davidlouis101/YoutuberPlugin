@@ -1,14 +1,13 @@
 name: YoutuberPlugin
 main: YoutuberPlugin\Main
-api: 3.11.3
-version: 0.0.1
-author: Crow
+api: 3.0.0
+version: 1.0
+author: Crow, skillPhil5235, skillDev5235
 commands:
 DC:
 description: "§2Unser DC Server"
-usage: "/DC"
-permission: DC.cmd
+permission: dc.cmd
 
 permission:
-DC.cmd:
-default: default
+dc.cmd:
+default: op
