@@ -2,7 +2,7 @@
 
 namespace YoutuberPlugin;
 
-use pocketmine\plugin\pluginBase;
+use pocketmine\plugin\PluginBase;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 
