@@ -2,7 +2,9 @@ name: YoutuberPlugin
 main: YoutuberPlugin\Main
 api: 3.0.0
 version: 1.0
-author: Crow, skillPhil5235, skillDev5235
+author: 
+- Crow
+- skillPhil5235
 commands:
 DC:
 description: "§2Unser DC Server"
