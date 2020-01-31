@@ -14,7 +14,7 @@ class Main extends PluginBase {
     
     public function onCommand (CommandSender $sender, Command $command, string $label, array $args) :bool {
         switch($command->getName()){
-            case "YT":
+            case "DC":
                 $sender->sendMessage("§4Unser Discord Server --> §2https://discord.gg/rrf3gqh");
                 $sender->sendMessage("§1Nicht Vergessen §2YT : Crow Balde");
                 $sender->sendMessage("§6Von Von§2 Crow§4 Balde:");
