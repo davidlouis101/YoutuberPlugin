@@ -13,7 +13,7 @@ public function onEnable() : void {
 }
 public function onCommand (CommandSender $sender,Command $command, string $label, array $args) : bool {
  swicht($command->getName()){
-   case "YT";
+   case "YT":
 $sender->sendMassage("§4Unser Discord Server --> §2https://discord.gg/rrf3gqh");
 $sender->sendMassage("§1Nicht Vergessen §2YT : Crow Balde");
 $sender->sendMassage("VON Crow Balde");
